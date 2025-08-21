@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name          EVO - Calcola Orario di Uscita 9h e 6h
 // @namespace     https://unibo.it/
-// @version       1.1
+// @version       1.0
 // @description   Calcola e mostra l'orario di uscita nel Cartellino per un orario di lavoro di 9:00 o 6:00.
-// @author        Stefano & A.I.
+// @author        Stefano
 // @match         https://personale-unibo.hrgpi.it/*
 // @icon          https://www.unibo.it/favicon.ico
 // @grant         GM_setValue
